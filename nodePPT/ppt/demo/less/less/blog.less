@@ -1,0 +1,40 @@
+@import "variables.less";
+@import "mixins.less";
+
+body {
+	.serif-font;
+	font-size: 20px;
+	color: @gray-dark;
+	color:red;
+}
+
+.container {
+   .transition-all();
+   .clearfix;
+   .size(100px,100px);
+   color:red;
+   font-size:14px;
+   border: 1px solid;
+
+}
+
+
+.navbar-custom {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	z-index: 3;
+	.sans-serif-font;
+	.navbar-brand {
+		font-weight: 800;
+	}
+	.navbar-header {
+		.navbar-toggle {
+			color: @gray-light;
+			font-weight: 800;
+			text-transform: uppercase;
+			font-size: 12px;
+		}
+	}
+}

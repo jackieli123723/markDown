@@ -1,0 +1,29 @@
+{
+  "name": "posthtml-demo",
+  "version": "1.0.0",
+  "description": "posthtml",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhuowenli/PPT.git"
+  },
+  "keywords": [
+    "posthtml"
+  ],
+  "author": "李立冬",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhuowenli/PPT/issues"
+  },
+  "homepage": "https://github.com/zhuowenli/PPT#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-posthtml": "^1.5.2",
+    "posthtml-retext": "^0.1.0",
+    "retext-emoji": "^1.0.0",
+    "retext-smartypants": "^1.0.0"
+  }
+}

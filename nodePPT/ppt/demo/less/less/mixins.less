@@ -1,0 +1,43 @@
+// Mixins
+
+.transition-all() {
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    transition: all 0.5s;
+}
+
+.background-cover() {
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.serif-font() {
+	font-family: 'Lora', 'Times New Roman', serif;
+}
+
+.sans-serif-font() {
+	font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+
+.clearfix() {
+    &:before,
+    &:after {
+        display: table;
+        content: "";
+    }
+    &:after {
+        clear: both;
+    }
+}
+.clearfix(){
+    *zoom: 1;
+}
+
+
+.size(@wdith, @height) {
+    width: @wdith;
+    height: @height;
+}

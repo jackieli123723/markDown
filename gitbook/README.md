@@ -1,0 +1,1 @@
+龙渊数据统计平台-游戏统计系统接口设计,采用[markdown](https://github.com/i5ting/tocmd.npm)生成api文档，以下是一个接口的实例，markdown语法简单易学上手简单，方便api维护[游戏统计系统接口文档](/demo/longyuan-data-api/API.html),前端er负责数据的交互，api文档交给后台开发人员维护，并用git管理，更改接口参数开发人员一眼便知，再也不用担心接口问题了。费时费力不讨好longyuan(作者：李立冬 龙渊数据平台web前端工程师)

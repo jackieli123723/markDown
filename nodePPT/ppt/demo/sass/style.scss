@@ -1,0 +1,33 @@
+@charset "utf-8";
+/**
+ * @author: 李立冬
+ * @email : 380863274@qq.com
+ */
+
+@import "https://raw.githubusercontent.com/marvin1023/sassCore/master/_function.scss";
+
+@mixin table-scaffolding {
+    th {
+        text-align: center;
+        font-weight: bold;
+    }
+    td, th { padding: 2px; }
+}
+
+@mixin left($dist:2px) {
+    float: left;
+    margin-left: $dist;
+}
+
+$color: red;
+
+#data {
+    @include left(10px);
+    @include transition(all 0.3s ease);
+    @include table-scaffolding;
+    color: $color;
+    .item{
+        display: inline-block;
+    }
+}
+

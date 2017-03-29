@@ -1,0 +1,15 @@
+/**
+ * @author: 李立冬
+ * @email : 380863274@qq.com
+ */
+
+*, *:before, *:after{
+    box-sizing: border-box;
+}
+
+.container{
+    height: 100%;
+    transition: heigth 0.3s ease-in-out;
+    transform: translate3d(10% ,0 ,0);
+    animation: aa 0.3s linear;
+}

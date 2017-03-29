@@ -1,0 +1,14 @@
+{
+  "name": "longyuan-data-front api",
+  "version": "1.0.0",
+  "description": "api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jackieli",
+  "license": "ISC",
+  "devDependencies": {
+    "i5ting_toc": "^1.1.4"
+  }
+}

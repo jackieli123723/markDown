@@ -1,0 +1,24 @@
+{
+  "name": "postcss-demo",
+  "version": "1.0.0",
+  "description": "postcss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhuowenli/PPT/"
+  },
+  "keywords": [
+    "postcss"
+  ],
+  "author": "李立冬",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^6.1.1",
+    "cssnano": "^3.3.2",
+    "gulp": "^3.9.0",
+    "gulp-postcss": "^6.0.1"
+  }
+}
