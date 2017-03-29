@@ -22,7 +22,7 @@
 ## author
 作者的相关信息
 ```json
-"author" : "zhangjikai"
+"author" : "jackieli"
 ```
 
 ## description
@@ -56,7 +56,7 @@ en, ar, bn, cs, de, en, es, fa, fi, fr, he, it, ja, ko, no, pl, pt, ro, ru, sv, 
 ```json
 "links" : {
     "sidebar" : {
-        "Home" : "http://zhangjikai.com"
+        "Home" : "http://jackieli.com"
     }
 }
 ```

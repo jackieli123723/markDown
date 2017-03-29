@@ -80,7 +80,7 @@ GitBook 同样可以编写 API 文档，只需要引入 [`theme-api` 插件](htt
 
 ![](assets/images/api.png)
 
-[在线演示](http://gitbook.zhangjikai.com/api/) &nbsp;&nbsp; [示例源码](https://github.com/zhangjikai/gitbook-use/tree/v3-api)
+[在线演示](http://gitbook.jackieli.com/api/) &nbsp;&nbsp; [示例源码](https://github.com/jackieli/gitbook-use/tree/v3-api)
 
 使用 GitBook 的 API 文档模式时也可以使用插件，但是因为大部分插件可能针对写书的模式，所以有可能会出现不兼容的现象。
 
@@ -141,7 +141,7 @@ System.out.println("Hello World");
 
 ![](assets/images/faq.png)
 
-[在线演示](http://gitbook.zhangjikai.com/faq/) &nbsp;&nbsp; [示例源码](https://github.com/zhangjikai/gitbook-use/tree/v3-faq)
+[在线演示](http://gitbook.jackieli.com/faq/) &nbsp;&nbsp; [示例源码](https://github.com/jackieli/gitbook-use/tree/v3-faq)
 
 编写帮助中心很简单，在 `Summary` 里配置问题以及答案所在的文件，在对应文件中写入问题的答案即可，下面是一个示例  
 `SUMMARY.md`

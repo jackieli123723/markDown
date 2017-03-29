@@ -131,7 +131,7 @@ pre[class*="language-"] {
 ],
 "pluginsConfig": {
     "github": {
-        "url": "https://github.com/zhangjikai"
+        "url": "https://github.com/jackieli"
     }
 }
 ```
@@ -147,7 +147,7 @@ pre[class*="language-"] {
     ],
     "pluginsConfig": {
         "github-buttons": {
-            "repo": "zhangjikai/gitbook-use",
+            "repo": "jackieli/gitbook-use",
             "types": [
                 "star",
                 "watch",
@@ -305,7 +305,7 @@ $$
 ],
 "pluginsConfig": {
     "tbfed-pagefooter": {
-        "copyright":"Copyright &copy zhangjikai.com 2017",
+        "copyright":"Copyright &copy lilidong.cn 2017",
         "modify_label": "该文件修订时间：",
         "modify_format": "YYYY-MM-DD HH:mm:ss"
     }
@@ -378,8 +378,8 @@ Google 统计
 ],
 "pluginsConfig": {
     "donate": {
-        "wechat": "https://zhangjikai.com/resource/weixin.png",
-        "alipay": "https://zhangjikai.com/resource/alipay.png",
+        "wechat": "https://lilidong.cn/resource/weixin.png",
+        "alipay": "https://lilidong.cn/resource/alipay.png",
         "title": "",
         "button": "赏",
         "alipayText": "支付宝打赏",
@@ -398,8 +398,8 @@ Google 统计
 ```
 {% raw %}
 <video id="my-video" class="video-js" controls preload="auto" width="100%"
-poster="https://zhangjikai.com/resource/poster.jpg" data-setup='{"aspectRatio":"16:9"}'>
-  <source src="https://zhangjikai.com/resource/demo.mp4" type='video/mp4' >
+poster="https://lilidong.cn/resource/poster.jpg" data-setup='{"aspectRatio":"16:9"}'>
+  <source src="https://lilidong.cn/resource/demo.mp4" type='video/mp4' >
   <p class="vjs-no-js">
     To view this video please enable JavaScript, and consider upgrading to a web browser that
     <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
@@ -416,8 +416,8 @@ poster="https://zhangjikai.com/resource/poster.jpg" data-setup='{"aspectRatio":"
 ```
 <br />
 {% raw %}
-<video id="my-video" class="video-js" controls preload="auto" width="100%" poster="https://zhangjikai.com/resource/poster.jpg" data-setup='{"aspectRatio":"16:9"}'>
-  <source src="http://zhangjikai.com/resource/demo.mp4" type='video/mp4' >
+<video id="my-video" class="video-js" controls preload="auto" width="100%" poster="https://lilidong.cn/resource/poster.jpg" data-setup='{"aspectRatio":"16:9"}'>
+  <source src="http://lilidong.cn/resource/demo.mp4" type='video/mp4' >
   <p class="vjs-no-js">
     To view this video please enable JavaScript, and consider upgrading to a web browser that
     <a href="https://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
@@ -505,7 +505,7 @@ poster="https://zhangjikai.com/resource/poster.jpg" data-setup='{"aspectRatio":"
     "plugins": ["sitemap-general"],
     "pluginsConfig": {
         "sitemap-general": {
-            "prefix": "http://gitbook.zhangjikai.com"
+            "prefix": "http://gitbook.lilidong.cn"
         }
     }
 }
